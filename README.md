@@ -1,3 +1,3 @@
 # animated-parakeet
 
-some scripts
+To be continued...
